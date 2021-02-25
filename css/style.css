@@ -31,6 +31,8 @@ body{
     width: 550px;
     height: 35px;
     border: 1px solid #d9d9d9;
+    outline: none;
+    padding-left: 20px;
 }
 
 .advance-bar{
@@ -38,7 +40,7 @@ body{
     height: 25px;
     border: 1px solid #d9d9d9;
     margin: 0 0 0 auto;
-
+        
 }
 
 #button-blue{
